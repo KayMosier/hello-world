@@ -1,5 +1,3 @@
 # hello-world
 My name is **Kaylynn Mosier**. Below are a few facts about me:
--I have two dogs
--I love to read
--I started mountain biking this year
+<ul> <li></li>I have two dogs</li><li>I love to read</li>I started mountain biking this year</li></ul>
